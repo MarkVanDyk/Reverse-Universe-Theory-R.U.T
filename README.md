@@ -5,6 +5,7 @@ Claim Index Addendum v0.2 — DOI:10.17605/OSF.IO/Y6GZP
 Add OSF DOIs for priority disclosures
 Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18676060.svg)](https://doi.org/10.5281/zenodo.18676060)
   https://doi.org/10.5281/zenodo.18676060
+  Replication Packet (Evidence Appendix) DOI: 10.5281/zenodo.18676786
 ## Replication Packet (Evidence Appendix) DOI: 10.5281/zenodo.18676786
 
 **Chapter 12 – Closing + Evidence Summary (v11 clean):**  
