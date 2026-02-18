@@ -1,3 +1,4 @@
+- PDF: [Chapter12_Closing_and_Evidence_Master_v11_clean.pdf](docs/replication/Chapter12_Closing_and_Evidence_Master_v11_clean.pdf)
 # Reverse-Universe-Theory-R.U.T
 A novel cosmological framework linking the direction of time to light expansion and contraction.
 Duality Claims v0.2 — DOI:10.17605/OSF.IO/Y6GZP
