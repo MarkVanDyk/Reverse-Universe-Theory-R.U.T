@@ -1,13 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it."
-title: "Reverse Universe Theory (R.U.T.) — Priority Note v0.2: Duality Laws (DUAL-01..LI-05)"
+title: "Priority Note v0.2 — Duality Laws (DUAL-01…LI-05)"
 type: software
 authors:
-  - family-names: "Van Dyk"
-    given-names: "Mark"
-version: "v0.2.0"
-date-released: "2026-02-17"
+  - family-names: Van Dyk
+    given-names: Mark
+version: "0.2.0"
+date-released: "2026-02-18"
 doi: "10.5281/zenodo.18676060"
-repository-code: "https://github.com/MarkVanDyk/Reverse-Universe-Theory-R.U.T"
 url: "https://github.com/MarkVanDyk/Reverse-Universe-Theory-R.U.T"
 license: "MIT"
