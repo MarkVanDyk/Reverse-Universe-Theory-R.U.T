@@ -26,3 +26,8 @@ Zenodo DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18676060.svg)](h
 ### DOI (Zenodo)
 - Version DOI: https://doi.org/10.5281/zenodo.18676060
 - Concept DOI: **(add after release)**
+## Evidence Packet (Chapter 12)
+Zenodo DOI (latest): https://doi.org/10.5281/zenodo.18677303
+
+## Priority Note (Duality Laws)
+Zenodo DOI: https://doi.org/10.5281/zenodo.18676060
