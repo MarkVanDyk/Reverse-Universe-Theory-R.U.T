@@ -1,0 +1,29 @@
+{
+  "datasetB": "SDSS Final BAO-only anisotropic DM/rd & DH/rd (diag-only errors; z_eff midpoint of SDSS z-range)",
+  "source_url": "https://www.sdss4.org/science/final-bao-and-rsd-measurements-table/",
+  "omega_frozen": 26.976474214823664,
+  "b0_fixed": 0,
+  "N_points": 4,
+  "Nobs": 8,
+  "lcdm": {
+    "H0": 63.04176681399385,
+    "Om": 0.3452156665916106,
+    "rd": 155.60379269110888,
+    "chi2": 37.51334365127623,
+    "BIC": 43.75166827631574,
+    "k": 3
+  },
+  "rut_omega_frozen": {
+    "H0": 54.51935711675361,
+    "Om": 0.34346595015196124,
+    "rd": 179.99998543352444,
+    "bC": -0.006760485454456719,
+    "bS": 0.00017661034195124423,
+    "amp": 0.0067627919377136695,
+    "chi2": 37.41755515436235,
+    "BIC": 47.814762862761526,
+    "k": 5
+  },
+  "delta_BIC_LCDM_minus_RUT": -4.063094586445786,
+  "timestamp_utc": "2026-03-01T04:40:54Z"
+}
