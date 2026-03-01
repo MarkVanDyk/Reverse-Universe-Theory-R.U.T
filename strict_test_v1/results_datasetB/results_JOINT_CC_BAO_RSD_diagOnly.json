@@ -1,0 +1,39 @@
+{
+  "joint_datasets": [
+    "CC_Hz",
+    "BAO_aniso_DMrd_DHrd",
+    "RSD_fs8"
+  ],
+  "omega_frozen": 26.976474214823664,
+  "b0_fixed": 0,
+  "counts": {
+    "CC": 32,
+    "BAO_obs": 8,
+    "RSD": 6,
+    "Nobs_total": 46
+  },
+  "lcdm": {
+    "H0": 67.5638141019451,
+    "Om0": 0.3316047220100475,
+    "rd": 146.1621677986612,
+    "sigma8_0": 0.8205877553901808,
+    "chi2": 59.026038499177446,
+    "BIC": 74.34060408513383,
+    "k": 4
+  },
+  "rut_omega_frozen": {
+    "H0": 67.36819803719567,
+    "Om0": 0.32361968719485856,
+    "rd": 147.05263496951676,
+    "sigma8_0": 0.8311804530663107,
+    "bC": -0.021702082556562034,
+    "bS": -0.014613592148134333,
+    "amp": 0.02616366684476485,
+    "chi2": 57.14861374286737,
+    "BIC": 80.12046212180194,
+    "k": 6
+  },
+  "delta_BIC_LCDM_minus_RUT": -5.779858036668102,
+  "timestamp_utc": "2026-03-01T05:34:09Z",
+  "note": "Joint fit shares H0, Om0, rd, sigma8_0 across CC+BAO+RSD; RUT adds (bC,bS) with omega locked; diag-only errors for BAO/RSD."
+}
