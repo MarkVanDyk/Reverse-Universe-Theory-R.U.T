@@ -1,0 +1,7 @@
+sample,z_eff,z_min,z_max,fs8,sfs8
+Main Galaxy Sample (MGS),0.135,0.07,0.2,0.53,0.16
+BOSS Galaxy,0.35,0.2,0.5,0.5,0.047
+BOSS Galaxy.1,0.5,0.4,0.6,0.455,0.039
+eBOSS LRG,0.8,0.6,1.0,0.448,0.043
+eBOSS ELG,0.8500000000000001,0.6,1.1,0.315,0.095
+eBOSS Quasar,1.5,0.8,2.2,0.462,0.045

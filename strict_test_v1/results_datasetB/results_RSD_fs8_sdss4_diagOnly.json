@@ -1,0 +1,26 @@
+{
+  "datasetB2": "SDSS Final RSD f\u03c38 (diag-only errors; z_eff midpoint of SDSS z-range)",
+  "source_url": "https://www.sdss4.org/science/final-bao-and-rsd-measurements-table/",
+  "omega_frozen": 26.976474214823664,
+  "b0_fixed": 0,
+  "N_points": 6,
+  "lcdm": {
+    "Om0": 0.22734817923344938,
+    "sigma8_0": 0.8712737965653652,
+    "chi2": 5.512728963853926,
+    "BIC": 9.096247902310036,
+    "k": 2
+  },
+  "rut_omega_frozen": {
+    "Om0": 0.24749693205909895,
+    "sigma8_0": 0.89344909122489,
+    "bC": -0.11528395362181916,
+    "bS": -0.0819589376805241,
+    "amp": 0.14144842674415925,
+    "chi2": 2.2913154538174734,
+    "BIC": 9.458353330729693,
+    "k": 4
+  },
+  "delta_BIC_LCDM_minus_RUT": -0.36210542841965676,
+  "timestamp_utc": "2026-03-01T05:10:52Z"
+}
