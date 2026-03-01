@@ -1,16 +1,14 @@
 {
   "omega_frozen": 26.976474214823664,
-  "omega_scan_range": [
-    0.5,
-    40.0
-  ],
-  "datasetA_rows": 1578,
+  "bC_frozen": 0.01205157,
+  "bS_frozen": 0.01663255,
+  "b0_mode": "fixed0",
   "filters": {
     "zCMB": true,
     "z_min": 0.01,
     "z_max": 2.3,
     "exclude_calibrators": true
   },
-  "timestamp_utc": "2026-02-27T06:04:43Z",
-  "note": "LOCKED from Dataset A via bounded WLS optimizer. Do not overwrite during Dataset B."
+  "timestamp_utc": "2026-03-01T07:20:48Z",
+  "note": "STRICT v2: omega, bC, bS frozen from Dataset A (Pantheon+/SH0ES)."
 }
