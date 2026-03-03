@@ -1,3 +1,18 @@
+Reverse Universe Theory (RUT) is tested here using a skeptic-friendly, pre-registered pipeline. The
+goal is not rhetorical persuasion; the goal is replication under locked rules.
+What this repo contains
+• A locked baseline + residual-domain search in ln(1+z), with a required cross-check in ln(a).
+• A bounded structured term: f(z) = 1 + A·sin(ω·ln(1+z)+φ0), |A| ≤ 0.2.
+• Penalty-aware evaluation (χ², AIC, BIC) and out-of-sample validation (k-fold CV / holdout).
+• Cross-probe rule: infer ω on H(z), then fix ω when testing SNe (no ω retuning on SNe).
+• Stability checks and null tests (shuffle/phase randomization).
+Pass / Fail (pre-registered)
+• Pass (provisional): cross-probe ω consistency + penalty-aware improvement + stability + nulls fail to
+reproduce.
+• Fail (hard): replication fails across probes and stability repeatedly fails. Stop tuning; record the run.
+Quickstart
+1) Run baseline fit → 2) compute residuals → 3) fit structured term → 4) stability + nulls → 5) OOS /
+holdout → 6) log result.
 - PDF: [Chapter12_Closing_and_Evidence_Master_v11_clean.pdf](docs/replication/Chapter12_Closing_and_Evidence_Master_v11_clean.pdf)
 # Reverse-Universe-Theory-R.U.T
 A novel cosmological framework linking the direction of time to light expansion and contraction.
