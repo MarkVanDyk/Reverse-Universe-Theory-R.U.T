@@ -1,3 +1,12 @@
+## Reviewer Quickstart (STRICT v2.1)
+- Zenodo DOI: https://doi.org/10.5281/zenodo.18854340
+- Git tag: strict-v2-2026-03-01.1
+- What this is: penalty-aware ΛCDM vs RUT comparison with ω/bC/bS frozen from Dataset A and held on independent datasets.
+- Start here: docs/replication/Replication_Packet_v1_RUT_Strict_Test_v2.pdf
+- Must-match gate: docs/replication/STRICTv2_MustMatch_Checklist_1page.pdf
+- Evidence archive: evidence/strict-v2-2026-03-01.1/ (or release asset zip)
+- Outputs: strict_test_v1/results_datasetB/, results_datasetC/, results_joint/
+- Falsifiers: docs/replication/RUT_Falsifiers.pdf
 Reverse Universe Theory (RUT) is tested here using a skeptic-friendly, pre-registered pipeline. The
 goal is not rhetorical persuasion; the goal is replication under locked rules.
 What this repo contains
