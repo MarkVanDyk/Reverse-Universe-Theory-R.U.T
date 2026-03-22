@@ -2,6 +2,7 @@
 
 ## Latest benchmark update
 See the latest release: **RUT v7.1 — JOINT(B+C) Benchmark Update**
+<img width="989" height="590" alt="output (21)" src="https://github.com/user-attachments/assets/78629236-9010-4c5e-98c4-1a87ab1d76b0" />
 
 | Model | Best score |
 |---|---:|
