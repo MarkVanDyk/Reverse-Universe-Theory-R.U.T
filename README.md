@@ -1,3 +1,28 @@
+## Reverse Universe Theory — JOINT(B+C) Benchmark Update
+
+This release documents the current JOINT(B+C) benchmark milestone for the constrained dynamic-omega / bS-priority pipeline.
+
+### Main result
+In the current matched JOINT(B+C) workflow, the refined expanded RUT solution currently outperforms the matched control models tested so far.
+
+### Refined benchmark summary
+- **Expanded RUT**: BIC ≈ **1485.4368**
+- **Flat w0waCDM**: BIC ≈ **1584.8104**
+- **LCDM**: BIC ≈ **1602.5264**
+
+### Current preferred regions
+- **RUT**: refined interior optimum near **r_d ≈ 181.72**
+- **w0waCDM**: refined local optimum near **r_d ≈ 187.10**
+- **LCDM**: refined local optimum near **r_d ≈ 186.05**
+
+### Current interpretation
+Within the present matched JOINT(B+C) pipeline, RUT is the strongest-performing tested model so far. This should be interpreted as a pipeline benchmark result, not yet as a final universal cosmology verdict.
+
+### Included in this update
+- JOINT(B+C) benchmark summaries
+- release-facing result notes
+- refined comparison writeups for RUT vs LCDM vs w0waCDM
+- supporting notes for the current constrained dynamic-omega result
 ## Reviewer Quickstart (STRICT v2.1)
 - Zenodo DOI: https://doi.org/10.5281/zenodo.18854340
 - Git tag: strict-v2-2026-03-01.1
