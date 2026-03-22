@@ -1,5 +1,32 @@
 ## Reverse Universe Theory — JOINT(B+C) Benchmark Update
 
+## Latest benchmark update
+See the latest release: **RUT v7.1 — JOINT(B+C) Benchmark Update**
+
+| Model | Best score |
+|---|---:|
+| Expanded RUT | 1485.4368 |
+| Flat w0waCDM | 1584.8104 |
+| LCDM | 1602.5264 |
+
+## Latest benchmark update
+
+The latest benchmark milestone is documented in the release:
+
+**RUT v7.1 — JOINT(B+C) Benchmark Update**
+
+### Refined benchmark summary
+
+| Model | Best score |
+|---|---:|
+| Expanded RUT | 1485.4368 |
+| Flat w0waCDM | 1584.8104 |
+| LCDM | 1602.5264 |
+
+In the current matched JOINT(B+C) pipeline, the refined expanded RUT solution is the strongest-performing tested model so far.
+
+This should be interpreted as a matched pipeline benchmark result within the current setup, not yet as a final universal cosmology verdict.
+
 This release documents the current JOINT(B+C) benchmark milestone for the constrained dynamic-omega / bS-priority pipeline.
 
 ### Main result
