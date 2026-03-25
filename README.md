@@ -1,3 +1,9 @@
+## PDF document ladder
+
+- [Quick Reviewer Brief](docs/reviewer-packets/) — short first-contact overview
+- [Reviewer Packet](docs/reviewer-packets/) — mid-length technical review version
+- [Full Scientific Summary](docs/reviewer-packets/) — complete long-form scientific packet
+
 ## Reverse Universe Theory — JOINT(B+C) Benchmark Update
 
 ## Latest benchmark update
