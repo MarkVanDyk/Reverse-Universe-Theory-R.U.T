@@ -1,4 +1,73 @@
 ## PDF document ladder
+Current reviewer-facing set: Quick Reviewer Brief v6, Reviewer Packet v4, and Full Scientific Summary v7. Older reviewer summaries are retained in archive_old_versions for version history and should not be used as the active reviewer set.
+
+## Current Benchmark Status — May 2026
+
+Reverse Universe Theory (R.U.T.) is currently best described as a **structured, benchmark-facing research program** with a reproducible pilot signal in the growth-lensing sector.
+
+The strongest current result comes from the **Sprint A+B+C / Sprint C-H E_G replication packet**. In that packet, the fixed neutral-lensing RUT bridge,
+
+\[
+B(a)=\frac12\left[1+\tanh\left(\frac{a-a_t}{\Delta a}\right)\right],
+\]
+
+\[
+\mu(a)=1+\mu_0B(a),
+\]
+
+\[
+\Sigma(a)=1,
+\]
+
+shows a weak but hardened pilot advantage over LambdaCDM in E_G-style growth-lensing comparisons.
+
+### Key benchmark results
+
+| Stage | Test | Result | Interpretation |
+|---|---|---:|---|
+| Sprint A | Background real data | ΔBIC ≈ +3.7 | LambdaCDM preferred |
+| Sprint B | Joint background + growth | ΔBIC ≈ +3.63; μ₀ ≈ 0.173 | Mild growth hint, not BIC-supported |
+| Sprint C | Pilot multi-point E_G | ΔBIC ≈ -2.108 | First weak RUT advantage |
+| Sprint C-H | One-per-family E_G | ΔBIC ≈ -1.926 | Survives family reduction |
+| Sprint C-H | Family-weighted E_G | ΔBIC ≈ -1.963 | Survives weighting |
+| Sprint C-H | Leave-one-point-out jackknife | Win fraction = 1.0; worst ΔBIC ≈ -1.266 | No single point carries the result |
+
+### Current strongest reviewer-facing claim
+
+Fixed neutral-lensing RUT shows a reproducible pilot advantage over LambdaCDM in E_G-style growth-lensing comparisons within the documented benchmark setting. This is treated as a **bounded pilot result**, not a claim of final cosmological replacement.
+
+### Current interpretation
+
+The current E_G result suggests a possible **growth-lensing asymmetry**:
+
+\[
+\mu(a)>1,\qquad \Sigma(a)\approx1.
+\]
+
+In plain terms, the pilot signal points toward **enhanced matter-growth response with near-neutral lensing response**. RUT interprets this as a possible bridge-regulated separation between the matter-response channel and the light-path/lensing channel.
+
+### Current evidence level
+
+This is **not a confirmed detection**. The current E_G compilation uses diagonal errors only. Some measurements may overlap in survey data or methodology, and full covariance matrices have not yet been incorporated.
+
+Current conservative status:
+
+> **Tier-4-style testing pipeline with weak but hardened pilot evidence emerging in the E_G / growth-lensing sector.**
+
+### Next required test
+
+The next benchmark gate is:
+
+> **Sprint C-H2: covariance-clean E_G / holdout test**
+
+A stronger result would require the fixed neutral-lensing RUT bridge to remain favored after covariance control, survey-family auditing, and frozen-model holdout testing.
+
+### Replication
+
+The replication packet includes stored result tables and a verification script:
+
+```bash
+python scripts/verify_results.py
 
 - [Quick Reviewer Brief](docs/reviewer-packets/) — short first-contact overview
 - [Reviewer Packet](docs/reviewer-packets/) — mid-length technical review version
