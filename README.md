@@ -1,3 +1,51 @@
+## Latest Result: Bridge-State Growth–Lensing Test
+Newest result: RUT bridge-state diagnostic survives robustness testing and first-pass growth–lensing comparison.
+The newest RUT result introduces a bridge-state transition diagnostic for growth–lensing splitting. In the minimal effective response model, the bridge does not behave like a temporary spike. Instead, it produces a persistent \(E_G\) offset whose fastest change occurs near the bridge transition.
+
+Key result:
+
+\[
+|\Delta E_G| \sim B(a)
+\]
+
+and:
+
+\[
+\left|\frac{d(\Delta E_G)}{da}\right| \sim \frac{dB}{da}
+\]
+
+Using bridge parameters:
+
+\[
+z_* = 0.35,\quad a_* \approx 0.7407,\quad \Delta a = 0.03
+\]
+
+the derivative peak occurs near:
+
+\[
+z \approx 0.3409
+\]
+
+A 250-trial parameter-prior robustness scan found the strongest performance near:
+
+\[
+k \approx 0.20-0.30\,h/\mathrm{Mpc}
+\]
+
+with the best overall pass rate at \(k=0.30\,h/\mathrm{Mpc}\).
+
+First-pass comparison with compressed \(f\sigma_8\) and legacy \(E_G\) data mildly favors the RUT effective model over the baseline across tested \(k\)-values, with the best combined result near:
+
+\[
+k=0.30\,h/\mathrm{Mpc}
+\]
+
+This result does not prove RUT, but it strengthens the bridge-state diagnostic as a falsifiable growth–lensing test.
+
+See:
+
+`results/bridge_state_transition_growth_lensing/`
+
 ## PDF document ladder
 Current reviewer-facing set: Quick Reviewer Brief v6, Reviewer Packet v4, and Full Scientific Summary v7. Older reviewer summaries are retained in archive_old_versions for version history and should not be used as the active reviewer set.
 
