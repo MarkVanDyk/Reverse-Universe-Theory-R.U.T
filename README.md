@@ -1,5 +1,9 @@
 # RUT Pilot E_G Neutral-Lensing Bridge Packet v12e
+## DOI
 
+This replication packet is archived on Zenodo:
+
+**DOI:** 10.5281/zenodo.20330389
 This folder contains the v12e pilot manuscript and replication outputs for:
 
 **A Pilot E_G Growth-Lensing Test of a Frozen Neutral-Lensing Growth Response in Reverse Universe Theory**
