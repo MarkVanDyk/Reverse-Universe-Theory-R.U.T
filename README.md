@@ -1,3 +1,63 @@
+# RUT Pilot E_G Neutral-Lensing Bridge Packet v12e
+
+This folder contains the v12e pilot manuscript and replication outputs for:
+
+**A Pilot E_G Growth-Lensing Test of a Frozen Neutral-Lensing Growth Response in Reverse Universe Theory**
+
+The analysis treats Reverse Universe Theory (RUT) as motivation for a reduced, falsifiable growth-lensing bridge model rather than as a complete replacement cosmology. The main tested form is:
+
+\[
+\mu(a)=1+\mu_0B(a), \quad \Sigma(a)=1
+\]
+
+with
+
+\[
+B(a)=\frac{1}{2}\left[1+\tanh\left(\frac{a-a_t}{\Delta a}\right)\right],
+\]
+
+using frozen values:
+
+\[
+a_t=0.55,\quad \Delta a=0.08,\quad \mu_0 \approx 0.172759.
+\]
+
+## Contents
+
+- `RUT_Journal_Paper_v12e_with_Full_mu0_Growth_Resolve.pdf`  
+  Current pilot manuscript.
+
+- `RUT_Bridge_Gap_Mock_Recovery_Null_Control_v1.ipynb`  
+  Main notebook for bridge-gap mock recovery, null controls, real residual comparison, family-drop shape tests, and full \(\mu_0\) growth re-solve scan.
+
+- `pilot_EG_compilation.csv`  
+  18-point pilot E_G compilation used for the reconstructed diagnostic pipeline.
+
+- `RUT_real_pilot_EG_bridge_gap_model_comparison_v1.csv`  
+  Real residual-gap comparison between null, constant, linear, and frozen tanh models.
+
+- `RUT_real_pilot_EG_family_drop_bridge_shape_comparison_v1.csv`  
+  Leave-one-family-out tanh-vs-constant bridge-shape diagnostic.
+
+- `RUT_bridge_gap_mock_recovery_summary_v1.csv`  
+  Mock-recovery/null-control winner fractions.
+
+- `RUT_bridge_gap_tanh_recovery_power_scan_v1.csv`  
+  Power scan showing tanh recovery rate as residual amplitude increases.
+
+- `RUT_full_growth_resolve_mu0_sensitivity_scan_v1.csv`  
+  Full nonlinear growth-solver \(\mu_0\) sensitivity scan.
+
+## Current interpretation
+
+The pilot E_G data favor a nonzero neutral-lensing growth response over a null gap, but current diagonal-error data do not uniquely resolve the RUT tanh bridge shape against a constant growth-rescaling control.
+
+This packet is a pilot/reproducibility archive, not a claim that RUT replaces LambdaCDM.
+
+## Status
+
+Preprint / independent research manuscript. Not peer reviewed.
+
 ## Latest Result: Bridge-State Growth–Lensing Test
 Newest result: RUT bridge-state diagnostic survives robustness testing and first-pass growth–lensing comparison.
 The newest RUT result introduces a bridge-state transition diagnostic for growth–lensing splitting. In the minimal effective response model, the bridge does not behave like a temporary spike. Instead, it produces a persistent \(E_G\) offset whose fastest change occurs near the bridge transition.
